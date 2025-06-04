@@ -9,3 +9,4 @@ Missão com progreção linear (Nivel com caminho unico que vai revelando elemen
 
 ## Esboço:
 ![Texto alternativo da imagem](shared image (1).jfif)
+<img src="shared image (1).jfif" alt="Texto alternativo da imagem" width="500" height="300">
